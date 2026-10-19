@@ -1,4 +1,4 @@
-**Title**: A multi-faceted approach to characterizing user behavior and experience 
+*Title*: A multi-faceted approach to characterizing user behavior and experience 
 in a digital mental health intervention
 
 **Author(s)**: Annie T. Chen, Kathryn N. Tomasino, Emily G. Lattie, David C. Mohr
