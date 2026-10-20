@@ -14,7 +14,7 @@ While we were interested in each topic, we decided to go with the third choice, 
 Our research question is "How can a recommendation system suggest personalized mental wellness resources based on a user's self-reported emotions and experiences?" When we came up with this question, we decided that our approach for our machine modeling would be based on matching wellness resources to users based on their emotional state, experiences, and preferences, which we would determine using content based filtering. For example, a participant reports anxiety and academic stress, which leads to the system recommending certain breathing exercises, and an academic advisor program. 
 
 ## What we already know about our topic
-We already know that nearly 1 in 7 people (mostly more) struggle with mental health issues.
+We already know that nearly 1 in 7 people (most likely more) struggle with mental health issues.
 
 We know that people are hesitant to reach out with their personal problems, for fear of alienation. This is why we want to provide an anonymous resource for them to help themselves.
 
