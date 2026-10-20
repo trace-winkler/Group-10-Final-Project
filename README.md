@@ -9,7 +9,7 @@ When we began searching for a topic for our project to focus on, we had five can
 4. Online Community Network Analysis
 5. Tourism Recommendation
 
-While we were interested in each topic, we decided to go with the third choice, a Recommendation System designed specifically for Mental Health Help. We believe that this topic has the most important outcome, because when completed, it has a great potential to serious help people's mental health.
+While we were interested in each topic, we decided to go with the third choice. We believe that a Recommendation System designed specifically for Mental Health Help would both be a great project, and a great resource if the final product is what we want it to be. We believe that this topic has the most important outcome mainly because when it is completed it will have a great potential to seriously help people's mental health.
 
 Our research question is "How can a recommendation system suggest personalized mental wellness resources based on a user's self-reported emotions and experiences?" When we came up with this question, we decided that our approach for our machine modeling would be based on matching wellness resources to users based on their emotional state, experiences, and preferences, which we would determine using content based filtering. For example, a participant reports anxiety and academic stress, which leads to the system recommending certain breathing exercises, and an academic advisor program. 
 
