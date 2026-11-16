@@ -33,3 +33,10 @@ We need to learn the specifics around mental health issues so that we can proper
 We need to learn how to best analyse the people who decide to reach out in order to give them the help that they need. 
 
 We need to learn what exercises, advisor programs, and other forms of help best apply to each niche in each mental health issue.
+
+## Things we'd like to add
+1) Disclaimers that say our recommendations are not guaranteed to improve users' mental health. Seeking professional help is always recommended.
+2) Emotion predictions are not 100% certain and can make mistakes.
+3) Users should be able to correct or reject predicted emotions.
+4) Having a safety net that provides appropriate crisis resources when explicit risk is disclosed.
+
